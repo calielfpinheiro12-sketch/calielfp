@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #53c0ff, #6a5fff);
+    height: auto;
+    width: auto;
+    font-weight: 300;
+    border: white 2px solid;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 3em;
+}
+
+p, ul {
+    color: white;
+    font-size: 1.2em;
+    line-height: 1.6;
+    text-align: auto;
+    margin: 20px auto;
+    width: 80%;
+}
+
+#contato {
+    text-align: left;
+    font-size: 1.2em;
+    margin-top: 40px;
+}
